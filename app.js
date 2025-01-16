@@ -39,9 +39,9 @@ async function startFaceDetection() {
     if (results.face.length > 0) {
       const face = results.face[0];
       const face_width = face.box[2];
-      console.log("Face width is ", face_width);
+      //console.log("Face width is ", face_width);
       const distance = calculateDistance(face_width);
-      console.log("Distance is ", distance);
+      //console.log("Distance is ", distance);
 
       if (distance < 0.0035) {
         warnUser();

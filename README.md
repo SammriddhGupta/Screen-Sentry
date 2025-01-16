@@ -82,6 +82,6 @@ The app will be available at `http://localhost:8080` by default.
 ## Credits
 - **Human.js**: AI-powered face detection library ([GitHub](https://github.com/vladmandic/human)).
 - **Audio Credit**: Sound Effect by [Otto](https://pixabay.com/users/voicebosch-30143949/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=175692) from [Pixabay](https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=175692).
+- **Favicon Credit**: [Spyware icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/spyware).
 
 ---
-
